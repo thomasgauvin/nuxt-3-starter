@@ -2,6 +2,7 @@
   <div>
     <div class="home-page">
       <h1>Hi! This is a simple Nuxt 3 app.</h1>
+      <h1>This is the dev branch.</h1>
       <h2>Click on the buttons below to check out a server route or an API route :) </h2>
       <NuxtLink to="/hello" target="_blank">
         <button> 
